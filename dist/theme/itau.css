@@ -293,9 +293,6 @@ section.has-light-background, section.has-light-background h1, section.has-light
   .backgrounds {
     background-color: #191919; } }
 
-.bg-itau {
-  background: linear-gradient(1800deg, #ce3f05 0%, #fd9f0c 100%); }
-
 .sec-head {
   font-size: 3rem;
   font-style: italic;
