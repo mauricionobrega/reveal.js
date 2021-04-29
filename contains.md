@@ -11,20 +11,20 @@ Ofertar o melhor produto entre Consórcio ou Financiamento de Veículos baseando
  - Se integrar a um Backoffice externo em Salesforce
 
 ## Keywords
- - [] Saga pattern
+ - [x] Saga pattern
  - [x] Escalabilidade
- - [] 12 fatores
- - [] Event driven
- - [] Microservices
- - [] Segurança
- - [] API first
- - [] Solução ponta a ponta
- - [] Observability
- - [] Omnichannel
- - [] Clean Archtecture
- - [] Desacoplamento
- - [] Banco de dados schemless
- - [] Cloud
+ - [x] 12 fatores
+ - [x] Event driven
+ - [x] Microservices
+ - [x] Segurança
+ - [x] API first
+ - [x] Solução ponta a ponta
+ - [x] Observability
+ - [x] Omnichannel
+ - [x] Clean Archtecture
+ - [x] Desacoplamento
+ - [x] Banco de dados schemless
+ - [x] Cloud
 
 ## Principais funcionalidades
  - As ofertas devem ter uma jornada de criação e exposição near real-time.
